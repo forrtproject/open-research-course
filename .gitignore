@@ -1,1 +1,14 @@
+    # Ignore specific files
+    my_secret_key.pem
+    config.local.js
 
+    # Ignore entire directories
+    node_modules/
+    build/
+
+    # Ignore files with a specific extension
+    *.log
+    *.tmp
+
+    # Ignore files matching a pattern
+    *.DS_Store
