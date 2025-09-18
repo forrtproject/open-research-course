@@ -4,7 +4,8 @@
 
 This course is intended for self-paced learning, aimed at academic researchers and scientists in any field and at any stage of their careers. The course is organised into 8 chapters, which you can either complete step-by-step over 8 weeks, or you can focus on specific topics of interest!
 
-**Outline**: First, you will explore what open research is, why it’s important, and how it can be applied to different disciplines and stages of the research process. You will become familiar with the underlying principles of open research: transparency, integrity, and accessibility. You will consider the actions you need to take to ensure your own research outputs meet all three of these standards.
+## Citation
+Silverstein, P. (2025) Open Research. Framework for Open and Reproducible Research Training (FORRT). [https://github.com/forrtproject/Open-Research-course](https://github.com/forrtproject/Open-Research-course)
 
 ## Acknowledgment
 
