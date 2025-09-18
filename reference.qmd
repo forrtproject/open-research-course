@@ -1,0 +1,215 @@
+# Reference {.unnumbered}
+
+## Week 1: What is Open Research {.unnumbered}
+
+<div style="padding-left: 2em; text-indent: -1.5em;">
+Barker, E., Foka, A., Kiesling, J.B., Konstantinidou, K., Talatas, L., Tsoumari, V. (n.d.). Digital Periegesis: Tracing the places of ancient Greece and the stories associated with them. [https://www.periegesis.org/en/](https://www.periegesis.org/en/){target="_blank"}
+
+Driver, S. P., Norberg, P., Baldry, I. K., Bamford, S. P., Hopkins, A. M., Liske, J., ... & GAMA Team. (2009). GAMA: towards a physical understanding of galaxy formation. _Astronomy & Geophysics_, 50(5), 5-12. [https://doi.org/10.1111/j.1468-4004.2009.50512.x](https://doi.org/10.1111/j.1468-4004.2009.50512.x){target="_blank"}
+
+Education Endowment Foundation. (April 24, 2024). A School’s Guide to Implementation. [https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation](https://educationendowmentfoundation.org.uk/education-evidence/guidance-reports/implementation){target="_blank"}
+
+Farran, E. K., Silverstein, P., Ameen, A. A., Misheva, I., Gilmore, C. (2025). Open Research: Examples of good practice, and resources across disciplines (2025 edition). [https://osf.io/preprints/osf/3r8hb](https://osf.io/preprints/osf/3r8hb){target="_blank"}
+
+GAMA Team (n.d.): The Galaxy and Mass Assemby (GAMA). [https://www.gama-survey.org/](https://www.gama-survey.org/){target="_blank"}
+
+Hanisch, R. & Quinn, P. (2003). The International Virtual Observatory. [https://www.ivoa.net/about/TheIVOA.pdf](https://www.ivoa.net/about/TheIVOA.pdf){target="_blank"}
+
+International Virtual Observatory Alliance. (n.d.). The Virtual Observatory (IVOA). [https://www.ivoa.net](https://www.ivoa.net){target="_blank"}
+
+Pelagios Network (n.d.). The Pelagios Network. 
+[https://pelagios.org](https://pelagios.org){target="_blank"}
+
+Pelagios Network. (2024). What is linked open data? [https://pelagios.org/linked-data](https://pelagios.org/linked-data){target="_blank"}
+
+UK Research and Innovation (UKRI). (2025, Apri1 10). Ensuring Open Research. [https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/](https://www.ukri.org/what-we-do/supporting-healthy-research-and-innovation-culture/open-research/){target="_blank"}
+
+Wellcome. (n.d.). What is Open research?  [https://wellcome.org/what-we-do/our-work/research-enviornment/open-research](https://wellcome.org/what-we-do/our-work/research-enviornment/open-research){target="_blank"}
+
+World Health Organisation. (2024). The mRNA vaccine technology transfer hub. [https://www.who.int/initiatives/the-mrna-vaccine-technology-transfer-hub](https://www.who.int/initiatives/the-mrna-vaccine-technology-transfer-hub){target="_blank"}
+</div>
+
+## Week 2: Transparency: As open as possible {.unnumbered}
+<div style="padding-left: 2em; text-indent: -1.5em;">
+Center for Open Science. (2024). Open Science Framework. [https://osf.io/](https://osf.io/){target="_blank"}
+
+Center for Qualitative and Multi-Method Inquiry, Maxwell School of Citizenship and Public Affairs, Syracuse University. (2023). The Qualitative Data Repository. 
+[https://qdr.syr.edu/](https://qdr.syr.edu/){target="_blank"}
+
+Creative Commons. (2024). Share your work. [https://creativecommons.org/share-your-work](https://creativecommons.org/share-your-work){target="_blank"}
+
+European Organization for Nuclear Research and OpenAIRE. (2024). Zenodo. [https://zenodo.org](https://zenodo.org){target="_blank"}
+
+Framework for Open and Reproducible Research Training (FORRT). (2024). Lesson plan 8: open data and qualitative research (lesson template with a CC-By Attribution 4.0 licence). [https://osf.io/nyfqx](https://osf.io/nyfqx){target="_blank"}
+
+Kanter, D. (2024). Open data relating to 'Collecting and connecting portrait sittings: a re-evaluation of portrait-sitting accounts in enhancing knowledge and understanding of British portraiture 1900-1960'. [https://doi.org/10.21954/ou.rd.c.6693558](https://doi.org/10.21954/ou.rd.c.6693558){target="_blank"}
+
+Lia, A., Dowle, A., Taylor, C., Santino, A., & Roversi, P. (2020). Partial catalytic Cys oxidation of human GAPDH to Cys sulfonic acid. 
+[https://wellcomeopenresearch.org/articles/5-114/v2](https://wellcomeopenresearch.org/articles/5-114/v2){target="_blank"}
+
+The Open University. (2024). Open Research Data Online (ORDO). [https://ordo.open.ac.uk/](https://ordo.open.ac.uk/){target="_blank"}
+
+Prinizing, M. (2023). Pro-environmental behavior increases subjective well-being: evidence from an experience sampling study and a randomized experiment. [https://osf.io/preprints/psyarxiv/ac89k](https://osf.io/preprints/psyarxiv/ac89k){target="_blank"}
+
+Play and Learning across a Year (PLAY). (n.d.). [https://play-project.org/index.html](https://play-project.org/index.html){target="_blank"}
+
+Research Collaboratory for Structural Bioinformatics (RCSB). (n.d.). Protein Data Bank. [https://www.rcsb.org/](https://www.rcsb.org/){target="_blank"}
+
+Silverstein, P. (2020). Evaluating the replicability and specificity of evidence for natural pedagogy theory. [https://www.research.lancs.ac.uk/ portal/ en/ publications/ evaluating-the-replicability-and-specificity-of-evidence-for-natural-pedagogy-theory(39b30b8b-7701-45b9-9009-d2d43bd5a006).html](https://www.research.lancs.ac.uk/%20portal/%20en/%20publications/%20evaluating-the-replicability-and-specificity-of-evidence-for-natural-pedagogy-theory(39b30b8b-7701-45b9-9009-d2d43bd5a006).html){target="_blank"}
+</div>
+
+## Week 3: Integrity: Challenging Questionable Research Practices {.unnumbered}
+<div style="padding-left: 2em; text-indent: -1.5em;">
+Camerer, C., Dreber, A., Forsell, E., Ho, T., Huber, J., Johannesson, M., Kirchler, M., Almenberg, J., Altmejd, A., Chan, T., Heikensten, E., Holzmeister, F., Imai, T., Isaksson, S., Nave, G., Pfeiffer, T., Razen, M., & Wu, H. (2016). Evaluating replicability of laboratory experiments in Economics. _Science_, 351(6280), 1433-1436. [https://doi.org/10.1126/science.aaf0918](https://doi.org/10.1126/science.aaf0918){target="_blank"}
+
+Cova, F., Strickland, B., & Abatista, A. (2021). Estimating the reproducibility of experimental philosophy. _Review of Philosophy and Psychology_, 12(1):9-44. 
+[https://www.researchgate.net/publication/325216701\_](https://www.researchgate.net/publication/325216701_Estimating_the_Reproducibility_of_Experimental_Philosophy){target="_blank"} 
+
+Ebersole, C. R., Mathur, M. B., Baranski, E., Bart-Plange, D. J., Buttrick, N. R., Chartier, C. R., ... & Szecsi, P. (2020). Many Labs 5: Testing pre-data-collection peer review as an intervention to increase replicability. _Advances in Methods and Practices in Psychological Science_. 2020;3(3):309-33. [https://doi.org/10.1177/2515245920958687](https://doi.org/10.1177/2515245920958687){target="_blank"}
+
+Ebersole, C. R., Atherton, O. E., Belanger, A. L., Skulborstad, H. M., Allen, J. M., Banks, J. B., ... & Nosek, B. A. (2016). Many Labs 3: Evaluating participant pool quality across the academic semester via replication. _Journal of Experimental Social Psychology_, 67, 68-82. [https://doi.org/10.1016/j.jesp.2015.10.012](https://doi.org/10.1016/j.jesp.2015.10.012){target="_blank"}
+
+Errington, T. M., Mathur, M., Soderberg, C. K., Denis, A., Perfito, N., Iorns, E., & Nosek, B. A. (2021). Investigating the replicability of preclinical cancer biology. _elife_, 10, e71601.
+Available at: [https://doi.org/10.7554/eLife.71601](https://doi.org/10.7554/eLife.71601){target="_blank"}
+
+Heiss, A. (2025). Hack your way to scientific glory. [https://stats.andrewheiss.com/hack-your-way/](https://projects.fivethirtyeight.com/%20p-hacking/){target="_blank"} recreated from the original from Fifethirtyeight.com, archived at [https://web.archive.org/web/20250130080601/https://projects.fivethirtyeight.com/p-hacking/](https://web.archive.org/web/20250130080601/https://projects.fivethirtyeight.com/p-hacking/){target="_blank"}
+
+Framework for Open and Reproducible Research Training (FORRT). (2024). Lesson plan 8: open data and qualitative research (lesson template with a CC-By Attribution 4.0 licence). [https://osf.io/nyfqx](https://osf.io/nyfqx){target="_blank"}
+
+Hofstede, G. (1980). Culture's consequences: international differences in work-related values. Beverly Hills, CA: Sage Publications. [https://books.google.co.uk/books/about/Culture_s_Consequences.html?id=Cayp_Um4O9gC&redir_esc=y](https://books.google.co.uk/books/about/Culture_s_Consequences.html?id=Cayp_Um4O9gC&redir_esc=y){target="_blank"}
+
+Klein, R. A., Ratliff, K. A., Vianello, M., Adams, R. B., Jr., Bahník, Š., Bernstein, M. J., Bocian, K., Brandt, M. J., Brooks, B., Brumbaugh, C. C., Cemalcilar, Z., Chandler, J., Cheong, W., Davis, W. E., Devos, T., Eisner, M., Frankowska, N., Furrow, D., Galliani, E. M., ... Nosek, B. A. (2014). Investigating variation in replicability: A ‘many labs’ replication project. _Social Psychology_, 45(3), 142–152.\
+[https://doi.org/10.1027/1864-9335/a000178](https://doi.org/10.1027/1864-9335/a000178){target="_blank"}
+
+ManyGoats. (2025). [https://www.themanygoatsproject.com/](https://www.themanygoatsproject.com/){target="_blank"}
+
+Open Science Collaboration. (2015). Estimating the reproducibility of psychological science Science, 349 aac4716. [https://doi.org/10.1126/science.aac4716](https://doi.org/10.1126/science.aac4716){target="_blank"}
+
+Silverstein, P. (2020). Evaluating the replicability and specificity of evidence for natural pedagogy theory. [https://www.research.lancs.ac.uk/portal/en/publications/ evaluating-the-replicability-and-specificity-of-evidence-for-natural-pedagogy-theory(39b30b8b-7701-45b9-9009-d2d43bd5a006).html](https://www.research.lancs.ac.uk/portal/en/publications/%20evaluating-the-replicability-and-specificity-of-evidence-for-natural-pedagogy-theory(39b30b8b-7701-45b9-9009-d2d43bd5a006).html){target="_blank"}
+
+Silverstein, P., Gliga, T., Westermann, G., & Parise, E. (2019). Probing communication induced biases in preverbal infants: two replication attempts of Yoon, Johnson and Csibra. _Infant Behaviour and Development_, 55, 77-87. [https://www.sciencedirect.com/science/article/pii/S0163638318301474?via%3Dihub](https://www.sciencedirect.com/science/article/pii/%20S0163638318301474?via%3Dihub){target="_blank"}
+
+Simons, D. J., Shoda, Y., & Lindsay, D. S. (2017). Constraints on Generality (COG): A proposed addition to all empirical papers. _Perspectives on Psychological Science_, 12(6), 1123-1128. [https://doi.org/10.1177/1745691617708630](https://doi.org/10.1177/1745691617708630){target="_blank"}
+
+UNICEF Innocenti Research Centre. (2021, 14 July). Evidence and Gap Map Research Briefs: UNICEF Strategic Plan 2018–2021 Goal Areas. [https://www.unicef.org/innocenti/reports/evidence-and-gap-map-research-briefs](https://www.unicef.org/innocenti/reports/evidence-and-gap-map-research-briefs){target="_blank"}
+</div>
+
+## Week 4: Documenting Decisions Transparently {.unnumbered}
+<div style="padding-left: 2em; text-indent: -1.5em;">
+Enhancing the QUAlity and Transparency Of health Research (EQUATOR) Network. (2024). Reporting guidelines for main study types. [https://www.equator-network.org/](https://www.equator-network.org/){target="_blank"}
+
+Enhancing the QUAlity and Transparency Of health Research (EQUATOR) Network. (2024). What is a reporting guideline? [https://www.equator-network.org/about-us/ what-is-a-reporting-guideline/](https://www.equator-network.org/about-us/what-is-a-reporting-guideline/){target="_blank"}
+
+Open Science Framework. (2024). Registrations and preregistrations. [https://help.osf.io/article/330-welcome-to-registrations](https://help.osf.io/article/330-welcome-to-registrations){target="_blank"}
+
+Silverstein, P., Gliga, T., Westermann, G., & Parise, E. (2019). Probing communication induced biases in preverbal infants: two replication attempts of Yoon, Johnson and Csibra. _Infant Behaviour and Development_, 55, 77-87. [https://www.sciencedirect.com/science/article/pii/S0163638318301474?via%3Dihub](https://www.sciencedirect.com/science/article/pii/%20S0163638318301474?via%3Dihub){target="_blank"}
+
+Tong, A., Sainsbury, P., & Craig, J. (2007). Consolidated criteria for reporting qualitative research (COREQ): a 32-item checklist for interviews and focus groups. _International Journal for Quality in Health Care_, 19(6), 349–357. [https://doi.org/10.1093/intqhc/mzm042](https://doi.org/10.1093/intqhc/mzm042){target="_blank"}
+
+The Open University. (2024). The open research decision tree. [https://www.open.edu/openlearncreate/course/view.php?id=11974](https://www.open.edu/openlearncreate/course/view.php?id=11974){target="_blank"}
+
+von Elm, E., Altman, D. G., Egger, M., Pocock, S. J., Gøtzsche, P. C., Vandenbroucke, J. P., & STROBE Initiative. (2007). The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies. _The Lancet_, 370(9596), 1453-7. 
+[https://doi.org/10.1016/S0140-6736(07)61602-X](https://doi.org/10.1016/S0140-6736(07)61602-X){target="_blank"}
+</div>
+
+## Week 5: Integrity: Supporting Robust Interpretations {.unnumbered}
+<div style="padding-left: 2em; text-indent: -1.5em;">
+Heiss, A. (2025). Hack your way to scientific glory. [https://stats.andrewheiss.com/hack-your-way/](https://projects.fivethirtyeight.com/%20p-hacking/){target="_blank"} recreated from the original from Fifethirtyeight.com, archived at [https://web.archive.org/web/20250130080601/https://projects.fivethirtyeight.com/p-hacking/](https://web.archive.org/web/20250130080601/https://projects.fivethirtyeight.com/p-hacking/){target="_blank"}
+
+Lacy, M. (2017). Just tell me what I need to know: reflexivity and positionality statements. [https://medium.com/\@Marvette/just-tell-me-what-i-need-to-know-reflexivity-and-positionality-statements-fb52ec0f4e17](https://medium.com/@Marvette/%20just-tell-me-what-i-need-to-know-reflexivity-and-positionality-statements-fb52ec0f4e17){target="_blank"}
+
+The Open University. (2024). The open research decision tree. [https://www.open.edu/openlearncreate/course/view.php?id=11974](https://www.open.edu/%20openlearncreate/course/view.php?id=11974){target="_blank"}
+</div>
+
+## Week 6: Accessibility: Making your research accessible online {.unnumbered}
+<div style="padding-left: 2em; text-indent: -1.5em;">
+Alperin, J. P. (2015). The public impact of Latin America's approach to open access. Stanford University. [https://stacks.stanford.edu/file/druid:jr256tk1194/AlperinDissertationFinalPublicImpact-augmented.pdf](https://stacks.stanford.edu/file/druid:jr256tk1194/AlperinDissertationFinalPublicImpact-augmented.pdf){target="_blank"}
+
+American Society for Cell Biology. (2024). Declaration on Research Assessment (DORA). [https://sfdora.org/](https://sfdora.org/){target="_blank"}
+
+Barnes, L. (2018). Green, gold, diamond black – what does it all mean?  [https://blogs.openbookpublishers.com/green-gold-diamond-black-what-does-it-all-mean/](https://blogs.openbookpublishers.com/green-gold-diamond-black-what-does-it-all-mean/){target="_blank"}
+
+Butler, L. A., Matthias, L., Simard, M. A., Mongeon, P., & Haustein, S. (2023). The oligopoly’s shift to open access: How the big five academic publishers profit from article processing charges. _Quantitative Science Studies_, 4(4), 778-799. [https://doi.org/10.1162/qss_a_00272](https://doi.org/10.1162/qss_a_00272){target="_blank"}
+
+Center for Open Science (2024): OSF Preprints. [https://osf.io/preprints](https://osf.io/preprints){target="_blank"}
+
+Coalition, S. (2024). Plan S: making full and immediate open access a reality. [https://www.coalition-s.org/](https://www.coalition-s.org/){target="_blank"}
+
+Cold Spring Harbour Laboratory (2024). bioRxiv: the Preprint Server for Biology. [https://www.biorxiv.org/](https://www.biorxiv.org/){target="_blank"}
+
+Creative Commons (2024): About CC licenses. [https://creativecommons.org/share-your-work/cclicenses/](https://creativecommons.org/share-your-work/cclicenses/){target="_blank"}
+
+JISC Open Policy Finder. (2025). Open Policy Finder. 
+[https://openpolicyfinder.jisc.ac.uk/](https://openpolicyfinder.jisc.ac.uk/){target="_blank"}
+
+Linguistics in Open Access. (2024). Glossa: a journal of general linguistics. [https://www.glossa-journal.org/](https://www.glossa-journal.org/){target="_blank"}
+
+Network of Scientific Journals from Latin America and the Caribbean, Spain and Portugal. (2024). Redalyc. [https://www.redalyc.org/](https://www.glossa-journal.org/){target="_blank"}
+
+PhilPapers Foundation. (2024). PhilPapers (index and bibliography of philosophy).  [https://philpapers.org/](https://philpapers.org){target="_blank"}
+
+SciELO. (2024). Scientific Electronic Library Online (SciELO). [http://scielo.org/en/](http://scielo.org/en/){target="_blank"}
+
+Society for the Improvement of Psychological Science. (2024). Preprints - OSF (2024): PsyArXiv. [https://osf.io/preprints/psyarxiv](https://osf.io/preprints/psyarxiv){target="_blank"}
+</div>
+
+## Week 7: Accessibility: Academic privilege and diversity {.unnumbered}
+<div style="padding-left: 2em; text-indent: -1.5em;">
+ASAPBio. (2024). Publish your reviews. [https://asapbio.org/publishyourreviews](https://asapbio.org/publishyourreviews){target="_blank"}
+
+CERN. (2024). The Large Hadron Collider. [https://home.cern/science/accelerators/large-hadron-collider](https://home.cern/science/accelerators/large-hadron-collider){target="_blank"}
+
+Bossu, C., Iniesto, F., Vladimirschi, V, Jordan, K., and Pete, J. (2023). GO-GN: Guidelines for Equity Diversity and Inclusion in Open Education with a focus on Africa and Latin America, Global OER Graduate Network (GO-GN). The Open University (UK). [https://go-gn.net/gogn_outputs/edi-guidelines](https://go-gn.net/gogn_outputs/edi-guidelines){target="_blank"}
+
+Bossu, C. & Vladimirschi, V. (2020). Diversity, equity and inclusion in Latin America in the context of an open education initiative, OE Global Connect.\ [https://connect.oeglobal.org/t/diversity-equity-and-inclusion-in-latin-america-in-the-context-of-an-open-education-initiative/387](https://connect.oeglobal.org/t/diversity-equity-and-inclusion-in-latin-america-in-the-context-of-an-open-education-initiative/387){target="_blank"}
+
+Elsherif, M., Middleton, S., Azevedo, F., Iley, B., Grosse-Hodge, M., Tyler, S., Kapp, S., Gourdon-Kanhukamwe, A., Grafton-Clark, D., Yeung, S., Shaw, J., Hartmann, H., & Dokovova, M. (2022). Bridging neurodiversity and open scholarship: how shared values can guide best practices for research integrity, social justice, and principled education. _MetaArXiv Preprints_. [https://osf.io/preprints/metaarxiv/k7a9p](https://osf.io/preprints/metaarxiv/k7a9p){target="_blank"}
+
+Farran, E. K., Silverstein, P., Ameen, A. A., Misheva, I., Gilmore, C. Open Research: examples of good practice and resources across disciplines. [https://osf.io/preprints/osf/3r8hb](https://osf.io/preprints/osf/3r8hb){target="_blank"}
+
+Iniesto, F. & Bossu, C. (2023). Equity, diversity, and inclusion in open education: A systematic literature review. _Distance Education_, 44:4, 694-711.  [https://doi.org/10.1080/01587919.2023.2267472](https://doi.org/10.1080/01587919.2023.2267472){target="_blank"}
+
+Kathawalla, U., Silverstone, P., & Syed, M. (2021). Easing into open science: a guide for graduate students and their advisors. University of California Press. 
+[https://doi.org/10.1525/collabra.18684](https://doi.org/10.1525/collabra.18684){target="_blank"}
+
+ManyPrimates. (n.d.). Many Primates. [https://manyprimates.github.io/](https://manyprimates.github.io/){target="_blank"}
+
+ManyPrimates. (2019). Collaborative open science as a way to reproducibility and new insights in primate cognition research. _Japanese Psychological Review_, Vol. 62, No. 3, 205-220.\
+[https://manyprimates.github.io/assets/pdfs/ManyPrimates_JPR_2019.pdf](https://manyprimates.github.io/){target="_blank"}
+
+The Many Babies Consortium. (2024). Many Babies. [https://manybabies.org/](https://manybabies.org/){target="_blank"}
+
+The National Human Genome Research Institute. (2024). The Human Genome Project. [https://www.genome.gov/human-genome-project](https://www.genome.gov/human-genome-project){target="_blank"}
+
+Octopus. (2025). Octopus. [https://www.octopus.ac/](https://www.octopus.ac/){target="_blank"}
+
+Pelagios Network. (2024). The Pelagios Network. [https://pelagios.org/](https://pelagios.org/){target="_blank"}
+
+The Psychological Science Accelerator. (n.d.). About. [https://psysciacc.org/about.html](https://psysciacc.org/about.html){target="_blank"}
+
+Society for the Improvement of Psychological Sciences. (2024). How to manage big team science projects in psychology.\
+[https://docs.google.com/presentation/d/15s7Mo7GMb7Jjs6i-Cl2sF4KmOPx8X6eoilyhhcNGHGw/edit#slide=id.p](https://docs.google.com/presentation/d/15s7Mo7GMb7Jjs6i-Cl2sF4KmOPx8X6eoilyhhcNGHGw/edit#slide=id.p){target="_blank"}
+</div>
+
+## Week 8: Committing to open research {.unnumbered}
+<div style="padding-left: 2em; text-indent: -1.5em;">
+Center for Open Science. (2024). OSF Preprints. [https://osf.io/preprints](https://osf.io/preprints){target="_blank"}
+
+Farran, E. K., Silverstein, P., Ameen, A. A., Misheva, I., Gilmore, C. (2025). Open Research: Examples of good practice, and resources across disciplines (2025 edition). [https://osf.io/preprints/osf/3r8hb](https://osf.io/preprints/osf/3r8hb){target="_blank"}
+
+Kathawalla, U., Silverstone, P., & Syed, M. (2021). Easing into open science: a guide for graduate students and their advisors. University of California Press.  [https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/bjop.12700](https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/bjop.12700){target="_blank"}
+
+Silverstein, P., Pennington, C., Branney, P., O’Connor, D., Lawlor, E., O’Brien, E., & Lynott, D. (2024). A registered report survey of open research practices in psychology departments in the UK and Ireland. _British Journal of Psychology_, 115: 497-534\
+[https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/ bjop.12700](https://bpspsychub.onlinelibrary.wiley.com/doi/pdf/10.1111/%20bjop.12700){target="_blank"}
+
+Silverstein, P. (2025). Nowhere Lab. [http://nowherelab.com/](http://nowherelab.com/){target="_blank"}
+
+The Open University. (2024). Open Research Data Online (ORDO).  [https://ordo.open.ac.uk/](https://ordo.open.ac.uk/){target="_blank"}
+
+The Framework for Open and Reproducible Research Training (FORTT). (n.d.) [https://forrt.org/](https://forrt.org/){target="_blank"}
+
+UbuntuNet Alliance (2024): AfricArxiv. [https://info.africarxiv.org/](https://info.africarxiv.org/){target="_blank"}
+
+UK Reproducibility Network (2024). Open research across disciplines. [https://www.ukrn.org/](https://www.ukrn.org/){target="_blank"}
+
+</div>
